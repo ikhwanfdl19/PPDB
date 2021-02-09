@@ -1,0 +1,22 @@
+/*
+  Author : Ikhwan Fadilah
+  Khusus css untuk general
+*/
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+.bg-navy{
+  background: #2765b0;
+}
+
+.bg-dark-navy{
+  background: #174680;
+}
